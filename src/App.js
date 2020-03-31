@@ -213,7 +213,7 @@ function App() {
                     WEBSITE DESIGN
                   </h4>
                   <p className="service__single-section__paragraph">
-                  eep expertise and hands on experience with Web Applications and programming 
+                  I have expertise and hands on experience with Web Applications and programming 
                   languages such as HTML, CSS, JavaScript, JQuery and API's.
                   i have Deep functional knowledge and hands on design experience with Web Services 
                   such as the MERN stack
@@ -237,7 +237,7 @@ function App() {
                   <img src={support} alt="" />
                   <h4 className="service__single-section__title">SUPPORT</h4>
                   <p className="service__single-section__paragraph">
-                    I also provide support for existing web pages and can edit
+                    I also provide support for existing Websites and can edit
                     them in order to meet thre Market requirements and standards{" "}
                   </p>
                 </div>
